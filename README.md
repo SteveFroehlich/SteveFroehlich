@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SteveFroehlich
 - 👀 I’m interested in ...
-  * low latency Java
+  * Developing and testing code on the JVM
   * Blockchain and Cryptocurrencies
   * most things Fintech
 
